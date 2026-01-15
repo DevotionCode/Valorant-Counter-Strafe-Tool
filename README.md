@@ -1,4 +1,4 @@
-# Counter-Strafe Tool (Strafing Analyzer Pro)
+# Counter-Strafe Tool (Strafing Analyzer)
 
 **Counter-Strafe Tool** est une application d'overlay conçue pour aider les joueurs de FPS (comme CS2, Valorant) à perfectionner leur mécanique de "counter-strafing".
 
