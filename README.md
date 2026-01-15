@@ -19,7 +19,7 @@ Le counter-strafing consiste à arrêter instantanément son mouvement latéral 
 
 ### Via l'exécutable (Recommandé)
 1.  Téléchargez la dernière version depuis l'onglet **Releases**.
-2.  Lancez `StrafingAnalyzerPro.exe`.
+2.  Lancez `StrafingAnalyzer.exe`.
 3.  Lancez votre jeu en mode "Fenêtré sans bordures" (Borderless Windowed) pour que l'overlay reste visible.
 
 ### Via Python (Développement)
